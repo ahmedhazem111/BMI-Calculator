@@ -78,6 +78,7 @@ input{
     .contain {
         width: 90%;
         height: 625px;
+        box-sizing: border-box;
     }
 
     h1 {
@@ -93,8 +94,10 @@ input{
     }
 
     .son {
-        left: 10px;
-        right: 10px;
+        left: 0;
+        width: 100%;
+        box-sizing: border-box;
+        padding: 0 10px;
     }
 
     input {
@@ -105,10 +108,10 @@ input{
     .btn {
         width: 90%;
         margin-left: 5%;
+        box-sizing: border-box;
     }
 
     .hr1 {
         width: 90%;
     }
 }
-
