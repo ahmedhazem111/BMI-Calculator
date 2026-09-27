@@ -73,5 +73,42 @@ input{
     width:510px;
    
 }
+@media (max-width: 768px) {
 
+    .contain {
+        width: 90%;
+        height: 625px;
+    }
+
+    h1 {
+        left: 50%;
+        transform: translateX(-50%);
+        white-space: nowrap;
+    }
+
+    h3 {
+        left: 50%;
+        transform: translateX(-50%);
+        white-space: nowrap;
+    }
+
+    .son {
+        left: 10px;
+        right: 10px;
+    }
+
+    input {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .btn {
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    .hr1 {
+        width: 90%;
+    }
+}
 
