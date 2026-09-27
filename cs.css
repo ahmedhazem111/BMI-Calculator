@@ -1,0 +1,77 @@
+
+body{
+    background-color: rgba(176, 171, 171, 0.251);
+}
+.contain{
+    background-color:white ;
+    width: 600px;
+    height: 625px;
+    margin: 60px auto auto auto;
+    border: solid  3px black;
+    border-radius: 10px;
+    position: relative;
+    
+}
+.contain:hover{
+    box-shadow: 5px 5px 40px;
+
+}
+h1{
+    position: absolute;
+    top: 10px;
+    left:196px;
+}
+h3{
+    position: absolute;
+    top: 55px;
+    left: 214px;
+    opacity: 0.8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+    font-weight: lighter;
+}
+
+.son{
+    position: absolute;
+    top:130px;
+    left:20px;
+    position: relative;
+}
+p{
+    margin-bottom: 2px;
+    font-weight: normal;
+}
+.para2{
+    margin-top: 40px
+
+}
+.para3{
+    margin-top: 40px
+
+}
+input{
+    width: 550px;
+    height: 20px;
+}
+.btn{
+    margin-top:38px;
+    width: 490px;
+    margin-left: 33px;
+    height: 27px;
+    background-color: rgba(41, 179, 41, 0.501);
+    
+}
+.btn:hover{
+    background-color: rgba(6, 91, 6, 0.759);
+    cursor: pointer;
+    height: 30px;
+    
+}
+.hr1{
+    display: none ;
+    margin-top: 40px;
+    width:510px;
+   
+}
+
+
