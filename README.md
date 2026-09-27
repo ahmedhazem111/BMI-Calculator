@@ -3,7 +3,7 @@ A simple student result calculator built with HTML, CSS and JavaScript.
 
 ## Live Demo
 
-[Open the BMI Calculator](https://ahmedhazem111.github.io/BMI-Calculator/)
+[Open the BMI Calculator]( https://ahmedhazem111.github.io/BMI-Calculator/)
 
 ## Description
 
